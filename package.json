@@ -1,0 +1,15 @@
+{
+  "name": "my-first-desktop-application-with-electron",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Yassine Alouini",
+  "license": "MIT",
+  "devDependencies": {
+    "electron-packager": "^4.1.3",
+    "electron-prebuilt": "^0.28.3"
+  }
+}
