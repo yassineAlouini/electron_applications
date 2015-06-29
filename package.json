@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "start": "electron ."
+    "start": "electron .",
+    "build": "electron-packager . myApp --platform=linux --arch=x64 --version=0.27.2"
   },
   "author": "Yassine Alouini",
   "license": "MIT",
