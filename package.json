@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "start": "electron .",
-    "build": "electron-packager . myApp --platform=linux --arch=x64 --version=0.27.2"
+    "build": "electron-packager . myApp --platform=linux --arch=x64 --version=0.27.2 --icon='myApp_icon.png'"
   },
   "author": "Yassine Alouini",
   "license": "MIT",

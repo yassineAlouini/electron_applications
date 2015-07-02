@@ -26,7 +26,10 @@ under the folder `myApp-linux`
 
 4. Your application will be available in the `myApp-linux` folder. To launch it, double click the icon.
 
-*Notice*: You can customize your application packaging (icon, system, architecture...). Check the sources section for more information.
+*Notices*:
+  * You can customize your application packaging (icon, system, architecture...). Check the sources section for more information.
+  * To change the default application icon when packaging, you can use your own
+  and then run: 
 
 ## Sources
 
